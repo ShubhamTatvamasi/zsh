@@ -2,7 +2,7 @@
 
 install zsh and ohmyzsh:
 ```bash
-sudo apt install zsh -y
+sudo apt install zsh git -y
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
