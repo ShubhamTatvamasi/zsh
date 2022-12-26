@@ -29,6 +29,7 @@ plugins=(git
 zsh-autosuggestions
 zsh-syntax-highlighting
 docker docker-compose
+kubectl
 )
 ```
 
