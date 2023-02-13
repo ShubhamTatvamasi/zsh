@@ -32,6 +32,6 @@ docker docker-compose
 kubectl kubectx kube-ps1
 )
 
-ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=245'
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=250'
 ```
 
