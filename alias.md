@@ -6,7 +6,9 @@ export EDITOR="vim"
 alias c='clear'
 alias q='exit'
 
-alias kubectl="kubecolor"
+source <(kubectl completion zsh)
+alias kubectl=kubecolor
+compdef kubecolor=kubectl
 
 alias k='kubectl'
 
@@ -37,8 +39,5 @@ alias kcc='kc current-context'
 
 alias kx='kubectx'
 alias kn='kubens'
-
-source <(kubectl completion zsh)
-complete -F __start_kubectl k
 
 ```
