@@ -32,6 +32,7 @@ docker docker-compose
 kubectl kubectx kube-ps1
 )
 
+# Not needed for ubuntu
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=250'
 ```
 
