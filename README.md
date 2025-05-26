@@ -61,7 +61,7 @@ Update theme:
 ```bash
 ZSH_THEME="robbyrussell"
 #ZSH_THEME="powerlevel10k/powerlevel10k"
-#ZSH_THEME="spaceship-prompt"
+#ZSH_THEME="spaceship-prompt/spaceship"
 ```
 > pick only one
 
