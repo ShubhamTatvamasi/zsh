@@ -51,6 +51,10 @@ Update theme:
 ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
 
+Start configuration wizard:
+```bash
+p10k configure
+``
 
 ---
 
