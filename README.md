@@ -38,6 +38,22 @@ kubectl kubectx kube-ps1
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=250'
 ```
 
+---
+
+Setup powerlevel10k
+```bash
+cd ~/.oh-my-zsh/custom/themes
+git clone https://github.com/romkatv/powerlevel10k.git
+```
+
+Update theme:
+```bash
+ZSH_THEME="powerlevel10k/powerlevel10k"
+```
+
+
+---
+
 Git Aliases
 
 https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/README.md
