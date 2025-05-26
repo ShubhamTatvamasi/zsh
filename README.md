@@ -6,6 +6,10 @@ sudo apt install zsh git -y
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
+---
+
+### Install plugins
+
 move to plugins directory:
 ```bash
 cd ~/.oh-my-zsh/custom/plugins
@@ -40,16 +44,25 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=250'
 
 ---
 
-Setup powerlevel10k
+### Install themes
+
+move to themes directory:
 ```bash
 cd ~/.oh-my-zsh/custom/themes
+```
+
+clone themes:
+```bash
 git clone https://github.com/romkatv/powerlevel10k.git
+git clone https://github.com/spaceship-prompt/spaceship-prompt.git
 ```
 
 Update theme:
 ```bash
 ZSH_THEME="powerlevel10k/powerlevel10k"
+ZSH_THEME="spaceship"
 ```
+> pick only one
 
 Start configuration wizard:
 ```bash
