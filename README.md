@@ -8,7 +8,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 
 move to plugins directory:
 ```bash
-cd ~/.oh-my-zsh/plugins
+cd ~/.oh-my-zsh/custom/plugins
 ```
 
 clone plugins:
