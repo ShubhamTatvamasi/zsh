@@ -29,7 +29,7 @@ add the following lines in `~/.zshrc` file:
 plugins=(git
 zsh-autosuggestions
 zsh-syntax-highlighting
-you-should-use
+zsh-you-should-use
 docker docker-compose
 kubectl kubectx kube-ps1
 )
