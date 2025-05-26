@@ -15,6 +15,7 @@ clone plugins:
 ```bash
 git clone https://github.com/zsh-users/zsh-autosuggestions.git
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+git clone https://github.com/MichaelAquilina/zsh-you-should-use.git
 ```
 
 open config file:
@@ -28,6 +29,7 @@ add the following lines in `~/.zshrc` file:
 plugins=(git
 zsh-autosuggestions
 zsh-syntax-highlighting
+you-should-use
 docker docker-compose
 kubectl kubectx kube-ps1
 )
