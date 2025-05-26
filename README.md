@@ -38,3 +38,7 @@ kubectl kubectx kube-ps1
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=250'
 ```
 
+Git Aliases
+
+https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/README.md
+
