@@ -22,7 +22,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
 git clone https://github.com/MichaelAquilina/zsh-you-should-use.git
 ```
 
-open config file:
+update config file:
 ```bash
 vim ~/.zshrc
 ```
@@ -55,6 +55,11 @@ clone themes:
 ```bash
 git clone https://github.com/romkatv/powerlevel10k.git
 git clone https://github.com/spaceship-prompt/spaceship-prompt.git
+```
+
+update config file:
+```bash
+vim ~/.zshrc
 ```
 
 Update theme:
