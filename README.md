@@ -68,7 +68,7 @@ ZSH_THEME="robbyrussell"
 Start configuration wizard:
 ```bash
 p10k configure
-``
+```
 
 ---
 
