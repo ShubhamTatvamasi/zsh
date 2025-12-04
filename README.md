@@ -75,6 +75,16 @@ Start configuration wizard:
 p10k configure
 ```
 
+### spaceship
+
+```bash
+vim ~/.spaceshiprc.zsh
+```
+
+```
+SPACESHIP_PROMPT_ADD_NEWLINE=false
+```
+
 ---
 
 Git Aliases
