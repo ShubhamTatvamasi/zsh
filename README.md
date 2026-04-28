@@ -85,6 +85,11 @@ vim ~/.spaceshiprc.zsh
 SPACESHIP_PROMPT_ADD_NEWLINE=false
 ```
 
+Downlaod and Set **JetBrains Mono Nerd** Font
+
+https://www.jetbrains.com/lp/mono/
+
+
 ---
 
 Git Aliases
