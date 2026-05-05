@@ -75,7 +75,9 @@ Start configuration wizard:
 p10k configure
 ```
 
-### spaceship
+### Spaceship
+
+https://spaceship-prompt.sh/
 
 ```bash
 vim ~/.spaceshiprc.zsh
@@ -85,10 +87,11 @@ vim ~/.spaceshiprc.zsh
 SPACESHIP_PROMPT_ADD_NEWLINE=false
 ```
 
+---
+
 Downlaod and Set **JetBrains Mono Nerd** Font
 
 https://www.jetbrains.com/lp/mono/
-
 
 ---
 
