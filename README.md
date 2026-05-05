@@ -91,6 +91,7 @@ vim ~/.spaceshiprc.zsh
 
 ```
 SPACESHIP_PROMPT_ADD_NEWLINE=false
+SPACESHIP_KUBECTL_SHOW=true
 ```
 
 ---
