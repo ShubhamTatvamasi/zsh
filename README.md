@@ -70,10 +70,16 @@ ZSH_THEME="spaceship-prompt/spaceship"
 ```
 > pick only one
 
+---
+
+### Powerlevel10k
+
 Start configuration wizard:
 ```bash
 p10k configure
 ```
+
+---
 
 ### Spaceship
 
