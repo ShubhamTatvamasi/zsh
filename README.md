@@ -100,6 +100,8 @@ Downlaod and Set **JetBrains Mono Nerd** Font
 
 https://www.jetbrains.com/lp/mono/
 
+Update Font in iTerm settings
+
 ---
 
 Git Aliases
